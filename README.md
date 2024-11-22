@@ -1,8 +1,12 @@
 # Projetos-WEB-I-HTML
-Projeto 1: Apresentação Pessoal <head> <title> <body> <header> <footer> <section> <nav> <ul> <li>.
-Projeto 2: Portfólio de Imagens <head> <title> <body> <img> <figure> <figcaption>.
-Projeto 3: Página de Receitas 
-Projeto 4: Site Pessoal
-Projeto 5: Tabela de Notas
-Projeto 6: Roteiro de Viagens
-Projeto 7: Cadastro de Usuário
+1. [Projeto 1: `<html>`, `<head>`, `<title>`,`<body>`, `<footer>` `<section>`,](atividade1.html)
+2. [Projeto 2: `<main>`, `<section>`, `<aside>`](atividade2.html)
+3. [Projeto 3: `<h1>`, ..., `<h6>`](atividade3.html)
+4. [projeto 4: `<p>`, `<b>`, `<i>`](atividade4.html)
+5. [Projeto 5: `<ol>`, `<li>`](atividade5.html)
+6. [Projeto 6: `<ol>`, `<li>`](atividade6.html)
+7. [Projeto 7: `<ul>`, `<li>`](atividade7.html)
+
+## Aluno
+
+Ana Clara Nóbrega
